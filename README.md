@@ -11,7 +11,7 @@ L'analyse complète (EDA), le feature engineering et l'entraînement sont dispon
 
 1.  **Analyse Exploratoire (EDA)** : Analyse de la distribution de la variable cible (classes relativement équilibrées) et des features. Analyse des tendances des signaux par décile. Utilisation de PCA. Détection et suppression des signaux bruités. Création de beaucoup de features.
 2.  **Modélisation & Comparaison** :
-    * `LogisticRegression` (Baseline)
+    * `LogisticRegression`
     * `RandomForestClassifier`, `XGB`, `LGBM` (enlevé du notebook car moins performants ici)
   
 ## Technologies Utilisées
